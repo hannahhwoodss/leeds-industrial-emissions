@@ -33,6 +33,8 @@ change, and mapped site locations against a boundary of Leeds using R
   harm, since different substances vary in toxicity.
 - The Veolia increase warrants further investigation (e.g. permit changes, 
   increased processing volume) rather than assuming worse practice.
+- Reported emissions are not the same as actual environmental harm, a bigger kg reported isn't necessarily worse. 
+
 
 ## Files
 - `leeds_pollution_final_analysis.R` — full analysis script
