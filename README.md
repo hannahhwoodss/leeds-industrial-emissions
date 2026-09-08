@@ -35,5 +35,5 @@ change, and mapped site locations against a boundary of Leeds using R
   increased processing volume) rather than assuming worse practice.
 
 ## Files
-- `leeds_pollution_analysis_final.R` / 'project.Rproj' — full analysis script
+- `leeds_pollution_final_analysis.R` — full analysis script
 - `leeds_emissions_map.png` — final map
